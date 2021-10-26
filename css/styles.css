@@ -1,0 +1,197 @@
+/*
+
+Colour Pallet
+
+#E8A705 Goldenrod
+#292C63 Space Cadet
+#D8D8D8 Light Gray
+#BBA68B Khaki Web
+#87AAC4 Pewter Blue
+
+*/
+
+
+body{
+    margin: 0;
+    
+    text-align: center;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 2rem;
+    
+
+}
+
+h1{
+    color: #E8A705;
+    font-family: 'Shadows Into Light Two', cursive;
+    font-size: 5.625rem;
+    line-height: 2;
+    margin-top: 50px;
+    
+}
+
+p{
+    font-family: 'PT Sans Narrow', sans-serif;
+    
+}
+
+h2{
+    color: #E8A705;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    
+    margin: 50px auto 0 auto;
+}
+
+h3{
+    color: #292C63 ;
+    font-family: 'PT Sans Narrow', sans-serif;
+    
+}
+
+a{
+    color: #292C63 ;
+}
+
+p{
+    color: #40514E;
+    line-height: 2;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    margin: 100px auto;
+    width: 4%;
+    color: #EAF6F6;
+}
+.top-container{
+    background-color: #87AAC4;
+    padding-top: 100px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    position: relative;  
+}
+
+.skill-row{
+    margin: 100px auto;
+    width: 50%;
+    text-align: left;
+
+}
+
+.bottomhr{
+    clear: right;
+}
+.contact-me{
+    margin-bottom: 10px;
+}
+
+.middle-container{
+    margin: 100px 0;
+}
+
+.intro{
+    width: 30%;
+    margin: auto;
+}
+
+.bottom-container{
+    background-color: #87AAC4;
+    padding: 50px 0 20px;
+    
+}
+
+.contact-message{
+    width: 30%;
+    margin: 40px auto 60px;
+}
+
+.footer-link{
+    color: #E8A705;
+    text-decoration: none;
+    padding: 10px;
+}
+
+a:hover{
+    color: #EAF6F6;
+}
+
+.copyright{
+    color: #EAF6F6;
+    font-size: 1.75rem;
+    padding: 20px 0;
+}
+
+.freepik-para{
+    color: #EAF6F6;
+    font-size: 1.75rem;
+}
+
+.freepik-link{
+    color: #E8A705 ;
+    text-decoration: none;
+}
+
+
+.programming-image{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.volleyball-image{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+
+.bottom-cloud{
+    position:absolute;
+    left: 700px;
+}
+
+.top-cloud{
+    position: absolute;
+    right:700px;
+    top:50px;
+}
+
+
+.profile-image{
+    height: 256px;
+    padding-top: 20px;
+    width: 256px;
+}
+
+.mountain-image{
+    margin: 0;
+}
+
+.btn {
+	box-shadow:inset 0px 1px 0px 0px #fff6af;
+	background:linear-gradient(to bottom, #ffec64 5%, #ffab23 100%);
+	background-color:#ffec64;
+	border-radius:22px;
+	border:1px solid #ffaa22;
+	display:inline-block;
+	cursor:pointer;
+	color:#333333;
+    font-family: 'PT Sans Narrow', sans-serif;
+	font-size:21px;
+	font-weight:bold;
+	padding:11px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffee66;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #ffab23 5%, #ffec64 100%);
+	background-color:#ffab23;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
